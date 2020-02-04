@@ -7,8 +7,8 @@ This notebook looks into using various Python-based machine learning and data sc
 We're going to take the following approach:
 
 Problem definition
-Data
-Evaluation
-Features
-Modelling
-Experimentation
+*Data
+*Evaluation
+*Features
+*Modelling
+*Experimentation
